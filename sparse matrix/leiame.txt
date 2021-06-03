@@ -1,0 +1,1 @@
+o arquivo teste.h contém as funções de multiplicação de matriz densa por vetor e a função para carregar a matriz do arquivo
